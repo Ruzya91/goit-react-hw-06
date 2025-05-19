@@ -1,0 +1,14 @@
+.input {
+  padding: 8px;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+.search {
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+}
