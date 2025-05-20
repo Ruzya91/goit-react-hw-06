@@ -2,7 +2,8 @@
   border: 1px solid #ccc;
   padding: 16px;
   border-radius: 8px;
-  margin-bottom: 24px;
+  /* margin-bottom: 24px; */
+  margin: 40px auto 24px auto;
   display: grid;
   grid-template-columns: 1fr;
   gap: 12px;
